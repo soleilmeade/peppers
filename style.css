@@ -5,3 +5,9 @@
   height: 500px;
   position: relative;
 }
+.ig-logo {
+  left: 15px;
+  bottom: 15px;
+  position: absolute;
+  width:50px; 
+}
