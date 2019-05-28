@@ -1,13 +1,18 @@
-.hero
-{
-  background: url(hero.jpg) no-repeat center;
+.hero {
+  background-image: url("images/hero.jpg");
   background-size: cover;
-  height: 500px;
-  position: relative;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 1000px;
 }
+
+.container {
+  margin-top: 200px;
+}
+
 .ig-logo {
   left: 15px;
   bottom: 15px;
   position: absolute;
-  width:50px; 
+  width:50px;
 }
